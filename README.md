@@ -3,6 +3,5 @@
 npm install 
 npm run start
 
-
-j'ai utilisé un seul route : 
+nous avons utilisé un seul route : 
  http://localhost:3000/weather
